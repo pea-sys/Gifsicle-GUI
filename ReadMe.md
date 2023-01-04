@@ -1,4 +1,8 @@
 # Gifsicle-GUI
+## 2023/01/04 This project has been archived for integration into other projects.
+
+
+-----
 
 GUI tool for compression of gif files.  
 It can be handled with simple operations.
@@ -28,4 +32,4 @@ If the size is reduced, the original gif file is overwritten.
 
 ---
 
-GPL2.0 © pea-sys
+GPL3.0 © pea-sys
