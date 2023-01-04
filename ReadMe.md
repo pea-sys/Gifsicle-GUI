@@ -1,5 +1,6 @@
 # Gifsicle-GUI
-## 2023/01/04 This project has been archived for integration into other projects.
+## 2023/01/04   
+## This project has been archived for integration into [other project](https://github.com/pea-sys/TSURUGI).
 
 
 -----
